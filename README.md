@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0128-longest-consecutive-sequence) |
+| [0383-ransom-note](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0383-ransom-note) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
