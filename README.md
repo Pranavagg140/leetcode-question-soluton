@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
