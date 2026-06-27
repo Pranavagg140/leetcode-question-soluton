@@ -46,4 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
