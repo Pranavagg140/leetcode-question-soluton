@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0389-find-the-difference) |
 ## Union-Find
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0389-find-the-difference) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
