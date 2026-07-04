@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0229-majority-element-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0142-linked-list-cycle-ii) |
