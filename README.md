@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
