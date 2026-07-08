@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1688-count-of-matches-in-tournament) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1688-count-of-matches-in-tournament) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
