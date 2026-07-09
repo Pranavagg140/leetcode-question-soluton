@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0520-detect-capital) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Counting
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0225-implement-stack-using-queues) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
