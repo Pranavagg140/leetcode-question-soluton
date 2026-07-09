@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
