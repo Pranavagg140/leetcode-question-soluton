@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0003-longest-substring-without-repeating-characters) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
