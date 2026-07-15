@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0682-baseball-game) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
