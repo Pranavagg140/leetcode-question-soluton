@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0680-valid-palindrome-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1768-merge-strings-alternately) |
 ## Recursion
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0680-valid-palindrome-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
