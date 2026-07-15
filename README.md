@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0682-baseball-game) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
