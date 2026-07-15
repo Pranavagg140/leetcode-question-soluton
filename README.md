@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0682-baseball-game) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1929-concatenation-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
