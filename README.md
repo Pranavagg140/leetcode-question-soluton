@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0520-detect-capital) |
+| [0680-valid-palindrome-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0680-valid-palindrome-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0680-valid-palindrome-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
