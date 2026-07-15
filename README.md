@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [3110-score-of-a-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
