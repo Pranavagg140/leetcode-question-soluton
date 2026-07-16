@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1688-count-of-matches-in-tournament) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0704-binary-search) |
 ## Tree
