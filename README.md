@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0680-valid-palindrome-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2053-kth-distinct-string-in-an-array) |
