@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0219-contains-duplicate-ii) |
@@ -204,5 +205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
