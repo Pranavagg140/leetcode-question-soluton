@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1688-count-of-matches-in-tournament) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
