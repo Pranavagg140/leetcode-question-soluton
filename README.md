@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0383-ransom-note) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
