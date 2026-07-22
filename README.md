@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0118-pascals-triangle) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
