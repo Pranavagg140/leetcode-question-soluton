@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0455-assign-cookies) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
