@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0658-find-k-closest-elements) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0704-binary-search) |
 ## Tree
