@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3110-score-of-a-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
