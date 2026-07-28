@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0905-sort-array-by-parity) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0860-lemonade-change) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
