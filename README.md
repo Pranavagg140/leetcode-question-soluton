@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2235-add-two-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0860-lemonade-change) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
