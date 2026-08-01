@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0560-subarray-sum-equals-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Union-Find
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1768-merge-strings-alternately) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
