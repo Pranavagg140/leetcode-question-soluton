@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0905-sort-array-by-parity) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2235-add-two-integers) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1757-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
