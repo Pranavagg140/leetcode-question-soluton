@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2706-buy-two-chocolates](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2706-buy-two-chocolates) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2706-buy-two-chocolates](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/3536-maximum-product-of-two-digits) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0658-find-k-closest-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Interactive
 |  |
 | ------- |
