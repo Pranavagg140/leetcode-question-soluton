@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1929-concatenation-of-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0704-binary-search) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1539-kth-missing-positive-number) |
 ## Tree
 |  |
