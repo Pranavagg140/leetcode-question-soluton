@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/1688-count-of-matches-in-tournament) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0658-find-k-closest-elements) |
