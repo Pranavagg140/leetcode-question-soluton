@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0367-valid-perfect-square) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0392-is-subsequence) |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0877-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pranavagg140/leetcode-question-soluton/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
